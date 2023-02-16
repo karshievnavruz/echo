@@ -1,7 +1,7 @@
 import requests
 import os
 
-url = "https://echobotdeploy.pythonanywhere.com/webhook"
+url = "https://navruzq7777.pythonanywhere.com/webhook"
 
 TOKEN = os.environ['TOKEN']
 payload = {
